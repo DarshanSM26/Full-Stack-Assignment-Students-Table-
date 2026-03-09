@@ -90,13 +90,13 @@ src
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/react-students-dashboard.git
+git clone https://github.com/DarshanSM26/Full-Stack-Assignment-Students-Table-.git
 ```
 
 Navigate into the project folder:
 
 ```
-cd react-students-dashboard
+cd Full-Stack-Assignment-Students-Table
 ```
 
 Install dependencies:
@@ -122,13 +122,13 @@ http://localhost:5173
 ## Live Demo
 
 Live Project:
-https://your-vercel-link.vercel.app
+https://full-stack-assignment-students-tabl-seven.vercel.app
 
 ---
 
 ## GitHub Repository
 
-https://github.com/yourusername/react-students-dashboard
+ https://github.com/DarshanSM26/Full-Stack-Assignment-Students-Table
 
 ---
 
