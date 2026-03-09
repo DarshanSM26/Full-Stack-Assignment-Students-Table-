@@ -53,7 +53,7 @@ return(
 <td className="p-3">{s.email}</td>
 <td className="p-3">{s.age}</td>
 
-<td className="p-3 space-x-2">
+<td className="p-3 flex flex-col sm:flex-row gap-2">
 
 <button
 onClick={()=>editStudent(s)}
