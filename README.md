@@ -96,7 +96,7 @@ git clone https://github.com/DarshanSM26/Full-Stack-Assignment-Students-Table-.g
 Navigate into the project folder:
 
 ```
-cd Full-Stack-Assignment-Students-Table
+cd Full-Stack-Assignment-Students-Table-
 ```
 
 Install dependencies:
@@ -128,7 +128,7 @@ https://full-stack-assignment-students-tabl-seven.vercel.app
 
 ## GitHub Repository
 
- https://github.com/DarshanSM26/Full-Stack-Assignment-Students-Table
+ https://github.com/DarshanSM26/Full-Stack-Assignment-Students-Table-
 
 ---
 
